@@ -6,7 +6,7 @@ Tip Calcutron is a tip calculator application for iOS.
 
 Submitted by: Korin Wong-Horiuchi
 
-Time spent: 5 hours spent in total
+Time spent: 2 hours spent in total
 
 ## User Stories
 
