@@ -38,6 +38,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+I had to look up how to format the currency style and locale, but apart from that everything was pretty straight forward. There was no communication between view controllers so no need for a delegate protocol, as I was storing the users preferences/settings in NSUserDefaults which persists over view controller segues and app restarts.
+
 ## License
 
     Copyright [2016] [Korin Wong-Horiuchi]
